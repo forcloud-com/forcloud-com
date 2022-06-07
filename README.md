@@ -32,6 +32,24 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     </ul>
 </details>
 
+<br>
+
+<div> <!--Status da Organização-->
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=forcloud-com&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="forcloud-com" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="forcloud-com" />
+</div> <!--Status da Organização-->
+
+<br>
+
+<div> <!--Linkedin dos Integrantes-->
+    <h3>Linkedin dos Integrantes:</h3>
+    <h2>Raul
+    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" alt="Raul Rodrigues Soares" height="30" width="30" /></a> </h2>
+
+</div> <!--Linkedin dos Integrantes-->
+
+<br>
+
 ---
 
 <sub>© 2022 Cloud-Organization, Inc.</sub>
