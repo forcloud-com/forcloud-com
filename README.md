@@ -43,8 +43,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Linkedin dos Integrantes:
 <div> <!--Linkedin dos Integrantes-->
-    <h2>Raul
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" alt="Raul Rodrigues Soares" height="30" width="30" /></a> </h2>
+    Raul
+    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" alt="Raul Rodrigues Soares" height="30" width="30" /></a>
 
 </div> <!--Linkedin dos Integrantes-->
 
