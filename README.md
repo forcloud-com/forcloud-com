@@ -1,30 +1,22 @@
 # Ei, nós somos for.cloud.com 👋
 
 <p><strong>Descrição da organização</strong><br>
-Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com as turmas de Desenvolvimento de Sistemas e Redes de Computadores.
+Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com as turmas de Desenvolvimento de Sistemas e Redes de Computadores. 
 </p>
-
-### **:hibiscus:Qualidade do Projeto**
-
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-- Rentabilidade
-- Item 2
-- Item 3
 
 ### **:hibiscus:Nosso Objetivo**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Uma aplicação de fácil utilização, que possui a criação simplificada de um ambiente na nuvem instâncias em suas respectivas redes usando Terraform.
 
 <details>
-    <summary>O que temos a propor</summary>
+    <summary>Assim propondo:</summary>
     <br>
     <ul>
-        <li>Facilidade na uilização da nossa aplicação.</li>
-        <li>Item 2
+        <li>Rentabilidade</li>
+        <li>Nossa aplicação com:
             <ul>
-                <li>Sub item2.1</li>
-                <li>Sub item2.2</li>
+                <li>Fácil entedimento.</li>
+                <li>Praticidade ao utilizar.</li>
                 <li>Sub iten2.3</li>
             </ul>
         </li>
@@ -41,7 +33,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <br><br><br><br>
 
-### Linkedin dos Integrantes:
+### :hibiscus:Linkedin dos Integrantes:
 <div> <!--Linkedin dos Integrantes-->
     Jéssica Ramoz | Redes de Computadores
     <a href="https://www.linkedin.com/in/jéssica-ramoz-303641227" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
@@ -59,8 +51,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-<sub>© 2022 Cloud-Organization, Inc.</sub>
+<sub>© 2022 For.cloud.com, Inc.</sub>
 
 <!--
-Made with @raulrsoares © 2022  Cloud-Organization, Inc.
+Made with @raulrsoares © 2022  For.cloud.com, Inc.
 -->
