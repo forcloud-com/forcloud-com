@@ -14,15 +14,15 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
     <summary>Assim propondo:</summary>
     <br>
     <ul>
-        <li>Rentabilidade</li>
+        <li>Rentabilidade;</li>
+        <li>Alta disponibilidade.</li>  
         <li>Nossa aplicação com:
             <ul>
                 <li>Fácil entedimento;</li>
                 <li>Praticidade ao utilizar;</li>
-                <li>Sub iten2.3</li>
+                <li>.</li>
             </ul>
         </li>
-        <li>Item 3</li>    
     </ul>
 </details>
 
@@ -73,7 +73,7 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
             <tr> <!--Linkedin William Começo -->
                 <td>William Nunes</td>
                 <td>Desenvolvimento de Sistemas</td>
-                <td><a href="https://www.linkedin.com/in/batata/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td><a href="https://www.linkedin.com/in/will/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
             </tr> <!--Linkedin William Começo -->
     </table>
 </div> <!--Linkedin dos Integrantes Fim-->
