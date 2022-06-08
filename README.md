@@ -1,7 +1,7 @@
 # Ei, nós somos for.cloud.com 👋
 
 <p><strong>Descrição da organização</strong><br>
-Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com a turma de Sistemas em Nuvem.
+Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com as turmas de Desenvolvimento de Sistemas e Redes de Computadores.
 </p>
 
 ### **:hibiscus:Qualidade do Projeto**
@@ -41,8 +41,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <br><br><br>
 
+### Linkedin dos Integrantes:
 <div> <!--Linkedin dos Integrantes-->
-    <h3>Linkedin dos Integrantes:</h3>
     <h2>Raul
     <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" alt="Raul Rodrigues Soares" height="30" width="30" /></a> </h2>
 
