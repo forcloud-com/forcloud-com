@@ -34,18 +34,47 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
 <br><br><br><br>
 
 ### :hibiscus:Linkedin dos Integrantes:
-<div> <!--Linkedin dos Integrantes-->
-    Jéssica Ramoz | Redes de Computadores
-    <a href="https://www.linkedin.com/in/jéssica-ramoz-303641227" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
-    Juliano Sena | Redes de Computadores
-    <a href="https://www.linkedin.com/in/juliano-sena-94bb27212" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
-    Matheus Requino | Redes de Computadores
-    <a href="https://www.linkedin.com/in/matheus-henrique-requino-costa-2b967a226" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
-    Raul Rodrigues | Redes de Computadores
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
-    <!-- William Nunes
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br> -->
-</div> <!--Linkedin dos Integrantes-->
+<div> <!--Linkedin dos Integrantes Começo-->
+    <table>
+        <thead>
+            <th>Nome</th>
+            <th>Curso</th>
+            <th>Linkedin</th>
+        </thead>
+        ㅤ
+        <tbody>
+        ㅤ
+            <tr> <!--Linkedin Jéssica Começo -->
+                <td>Jéssica Ramoz</td>
+                <td>Redes de Computadores</td>
+                <td><a href="https://www.linkedin.com/in/jéssica-ramoz-303641227" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+            </tr> <!--Linkedin Jéssica Fim -->
+            ㅤ
+            <tr> <!--Linkedin Juliano Começo -->
+                <td>Juliano Sena</td>
+                <td>Redes de Computadores</td>
+                <td><a href="https://www.linkedin.com/in/juliano-sena-94bb27212" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+            </tr> <!--Linkedin Juliano Fim -->
+            ㅤ
+            <tr> <!--Linkedin Matheus Começo -->
+                <td>Matheus Requino</td>
+                <td>Redes de Computadores</td>
+                <td><a href="https://www.linkedin.com/in/matheus-henrique-requino-costa-2b967a226" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+            </tr> <!--Linkedin Matheus Fim -->
+            ㅤ
+            <tr> <!--Linkedin Raul Começo -->
+                <td>Raul Rodrigues</td>
+                <td>Redes de Computadores</td>
+                <td><a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+            </tr> <!--Linkedin Raul Fim -->
+            ㅤ
+            <tr> <!--Linkedin William Começo -->
+                <td>William Nunes</td>
+                <td>Desenvolvimento de Sistemas</td>
+                <td><a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+            </tr> <!--Linkedin William Começo -->
+    </table>
+</div> <!--Linkedin dos Integrantes Fim-->
 
 <br>
 
