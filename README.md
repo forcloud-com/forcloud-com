@@ -19,7 +19,7 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
         <li>Nossa aplicação com:
             <ul>
                 <li>Fácil entedimento;</li>
-                <li>Praticidade ao utilizar;</li>
+                <li>Praticidade ao utilizar.</li>
             </ul>
         </li>
     </ul>
