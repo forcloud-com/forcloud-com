@@ -39,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="forcloud-com" />
 </div> <!--Status da Organização-->
 
-<br><br><br>
+<br><br><br><br>
 
 ### Linkedin dos Integrantes:
 <div> <!--Linkedin dos Integrantes-->
