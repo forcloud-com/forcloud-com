@@ -85,8 +85,8 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
 <br>
 
 <div> <!--Status da Organização-->
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=forcloud-com&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="forcloud-com" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="forcloud-com" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=forcloud-com&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180em"alt="forcloud-com" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=chartreuse-dark" alt="forcloud" />
 </div> <!--Status da Organização-->
 
 <br><br><br><br>
