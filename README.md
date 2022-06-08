@@ -1,7 +1,7 @@
 # Ei, nós somos for.cloud.com 👋
 
 <p><strong>Descrição da organização</strong><br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com a turma de Sistemas em Nuvem.
 </p>
 
 ### **:hibiscus:Qualidade do Projeto**
@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <summary>O que temos a propor</summary>
     <br>
     <ul>
-        <li>Facilidade na uilização do nosso Site</li>
+        <li>Facilidade na uilização da nossa aplicação.</li>
         <li>Item 2
             <ul>
                 <li>Sub item2.1</li>
@@ -39,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="forcloud-com" />
 </div> <!--Status da Organização-->
 
-<br>
+<br><br><br>
 
 <div> <!--Linkedin dos Integrantes-->
     <h3>Linkedin dos Integrantes:</h3>
