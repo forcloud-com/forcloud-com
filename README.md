@@ -36,7 +36,7 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!-- -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!-- -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- -->
-<a href="" target="_blank" rel="noreferrer"><img  src="https://cdn1.iconfinder.com/data/icons/web-hosting-3-2/32/Database_Service-128.png"  width="40" height="40" alt="SQL" /> </a> <!-- -->
+<a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer"><img  src="https://cdn1.iconfinder.com/data/icons/web-hosting-3-2/32/Database_Service-128.png"  width="40" height="40" alt="SQL" /> </a> <!-- -->
 <!-- Tecnologias Fim-->
 
 ### :hibiscus:Linkedin dos Integrantes:
@@ -46,6 +46,7 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
             <th>Nome</th>
             <th>Curso</th>
             <th>Linkedin</th>
+            <th>Envie-nos um e-mail</th>
         </thead>
         ㅤ
         <tbody>
@@ -54,30 +55,35 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
                 <td>Jéssica Ramoz</td>
                 <td>Redes de Computadores</td>
                 <td><a href="https://www.linkedin.com/in/jéssica-ramoz-303641227" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td> <a href="mailto:jessicaramoz31@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" align="center" alt="gmail" height="20" width="20" /> </a> </td>
             </tr> <!--Linkedin Jéssica Fim -->
             ㅤ
             <tr> <!--Linkedin Juliano Começo -->
                 <td>Juliano Sena</td>
                 <td>Redes de Computadores</td>
                 <td><a href="https://www.linkedin.com/in/juliano-sena-94bb27212" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td> <a href="mailto:senajuliano652@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" align="center" alt="gmail" height="20" width="20" /> </a> </td>
             </tr> <!--Linkedin Juliano Fim -->
             ㅤ
             <tr> <!--Linkedin Matheus Começo -->
                 <td>Matheus Requino</td>
                 <td>Redes de Computadores</td>
                 <td><a href="https://www.linkedin.com/in/matheus-henrique-requino-costa-2b967a226" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td> <a href="mailto:matheushenriquehc540@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" align="center" alt="gmail" height="20" width="20" /> </a> </td>
             </tr> <!--Linkedin Matheus Fim -->
             ㅤ
             <tr> <!--Linkedin Raul Começo -->
                 <td>Raul Rodrigues</td>
                 <td>Redes de Computadores</td>
                 <td><a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td> <a href="mailto:rsoaresraul@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" align="center" alt="gmail" height="20" width="20" /> </a> </td>
             </tr> <!--Linkedin Raul Fim -->
             ㅤ
             <tr> <!--Linkedin William Começo -->
                 <td>William Nunes</td>
                 <td>Desenvolvimento de Sistemas</td>
                 <td><a href="https://www.linkedin.com/in/williamferreira-developer" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td> <a href="mailto:nunesferreirawilliam@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" align="center" alt="gmail" height="20" width="20" /> </a> </td>
             </tr> <!--Linkedin William Começo -->
     </table>
 </div> <!--Linkedin dos Integrantes Fim-->
@@ -86,10 +92,10 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
 
 <div> <!--Status da Organização-->
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=forcloud-com&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180em"alt="forcloud-com" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=chartreuse-dark" alt="forcloud" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forcloud-com&layout=compact&langs_count=7&theme=chartreuse-dark" alt="forcloud-com" />
 </div> <!--Status da Organização-->
 
-<br><br><br><br>
+<br>
 
 ---
 
