@@ -43,8 +43,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Linkedin dos Integrantes:
 <div> <!--Linkedin dos Integrantes-->
-    Raul
-    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Raul Rodrigues Soares" height="20" width="20" /></a>
+    Jéssica Ramoz | Redes de Computadores
+    <a href="https://www.linkedin.com/in/jéssica-ramoz-303641227" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
+    Juliano Sena | Redes de Computadores
+    <a href="https://www.linkedin.com/in/juliano-sena-94bb27212" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
+    Matheus Requino | Redes de Computadores
+    <a href="https://www.linkedin.com/in/matheus-henrique-requino-costa-2b967a226" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
+    Raul Rodrigues | Redes de Computadores
+    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br>
+    <!-- William Nunes
+    <a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a><br> -->
 </div> <!--Linkedin dos Integrantes-->
 
 <br>
