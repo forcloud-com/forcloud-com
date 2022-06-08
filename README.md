@@ -1,5 +1,7 @@
 # Ei, nós somos for.cloud.com 👋
 
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=forcloud-com&label=Profile%20views&color=brightgreen&style=flat" alt="forcloud-com" /> </p>
+
 <p><strong>Descrição da organização</strong><br>
 Esta organização mantém o projeto que desenvolvemos durante o último semestre do nosso curso, integrado com as turmas de Desenvolvimento de Sistemas e Redes de Computadores. 
 </p>
@@ -15,8 +17,8 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
         <li>Rentabilidade</li>
         <li>Nossa aplicação com:
             <ul>
-                <li>Fácil entedimento.</li>
-                <li>Praticidade ao utilizar.</li>
+                <li>Fácil entedimento;</li>
+                <li>Praticidade ao utilizar;</li>
                 <li>Sub iten2.3</li>
             </ul>
         </li>
@@ -71,7 +73,7 @@ Uma aplicação de fácil utilização, que possui a criação simplificada de u
             <tr> <!--Linkedin William Começo -->
                 <td>William Nunes</td>
                 <td>Desenvolvimento de Sistemas</td>
-                <td><a href="https://www.linkedin.com/in/raul-rodrigues-soares-4b7975232/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
+                <td><a href="https://www.linkedin.com/in/batata/" target="_blank"><img src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" align="center" alt="Linkedin" height="20" width="20" /></a> </td>
             </tr> <!--Linkedin William Começo -->
     </table>
 </div> <!--Linkedin dos Integrantes Fim-->
